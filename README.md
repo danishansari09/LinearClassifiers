@@ -1,3 +1,2 @@
 # LinearClassifiers
-Logistic Regression &amp; SVM
-Logistic Reression intuition and SVM introduction. Still in progress and will update soon. Also, include Kernel SVM.
+Logistic Reression and SVM introduction. Still in progress and will update soon. And will also add Kernel SVM.
